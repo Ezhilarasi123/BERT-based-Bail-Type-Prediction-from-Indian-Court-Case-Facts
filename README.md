@@ -1,0 +1,1 @@
+# BERT-based-Bail-Type-Prediction-from-Indian-Court-Case-Facts
